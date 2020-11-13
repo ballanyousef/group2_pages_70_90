@@ -9,13 +9,18 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Group2_pages_70_90">
-        <activity android:name=".MainActivity70">
+        <activity android:name=".ActivityPage77_v2">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".ActivityPage77">
+
+        </activity>
+        <activity android:name=".ActivityPage73"></activity>
+        <activity android:name=".MainActivity70" />
     </application>
 
 </manifest>
