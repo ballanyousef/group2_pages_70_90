@@ -26,7 +26,7 @@ public class MainActivity70 extends AppCompatActivity {
 //        txtResult= (TextView)    findViewById(R.id.textView1);
 //        skBar1=    (SeekBar)     findViewById(R.id.seekBar1);
         //option2
-        txtResult=    findViewById(R.id.textView1);
+        txtResult=    findViewById(R.id.textView);
 
         skBar1=        findViewById(R.id.seekBar1);
         skBar1.setOnSeekBarChangeListener(skBar1Listener);
